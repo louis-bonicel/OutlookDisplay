@@ -1,0 +1,1 @@
+"C:\logicielPython37\pythonw.exe" .\Test.py
